@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @28kavya
-   I’m interested in web developement.... 
+   I have interested in web developement.... 
   
 
 <!---
