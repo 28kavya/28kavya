@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @28kavya
+👋 Hi, I’m kavya
    I have interested in web developement.... 
   
 
